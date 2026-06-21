@@ -105,10 +105,9 @@ npm run lint     # run ESLint
 
 ## 🔗 Useful Links
 
-- [Self-Learning Foundation Report](#) — original topic, resources, and assessment plan
-- [Self-Learning Advanced Report](#) — full reflection and evidence
 - [Canvas Submission Page](https://canvas.sydney.edu.au)
 - [Ed Discussion Board](https://edstem.org)
+- [Self-Test Results](./SELF-TEST.md) — full conceptual self-assessment Q&A
 
 ---
 
