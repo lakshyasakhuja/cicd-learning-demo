@@ -1,3 +1,5 @@
+![CI Pipeline](https://github.com/lakshyasakhuja/cicd-learning-demo/actions/workflows/ci.yml/badge.svg)
+
 # Self-Learning Advanced: CI/CD Pipeline
 
 > **Unit:** INFO1111 — Computing 1A Professionalism
