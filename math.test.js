@@ -11,3 +11,7 @@ test('subtracts 5 - 2 to equal 3', () => {
 test('adds negative numbers', () => {
   expect(add(-1, -1)).toBe(-2);
 });
+
+test('adds zero correctly', () => {
+  expect(add(5, 0)).toBe(5);
+});
